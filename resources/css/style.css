@@ -7,10 +7,48 @@ body {
 
 
 header {
-  display: flex;;
+  /* display: flex;; */
   background-image: url(/resources/images/banner-landingpage.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 800px;
+
+
+ 
+}
+
+.desktop {
+
+ 
+}
+
+.desktop ul {
+  background-color: aqua;
+  display: flex;
+ 
+
+}
+
+ul li {
+  display: inline;
+  margin: 20px;
+  left: auto;
+
+}
+
+header .content {
+  /* display: flex; */
+  left: auto;
+  background-color: #fff;
+  margin-bottom: 60px;
+}
+
+/* header .content {
+  background-color: #7AC74F;
+  color: #fff;
+  width: 800px;
+  height: 400px;
+  margin: 200px 190px;
+   */
 }
 
